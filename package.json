@@ -1,0 +1,25 @@
+{
+  "name": "eventsocketjs",
+  "version": "1.0.0",
+  "description": "An event-based network framework built on top of websockets",
+  "main": "index.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yousif-CS/eventsocketjs.git"
+  },
+  "author": "Yousif Khalid",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Yousif-CS/eventsocketjs/issues"
+  },
+  "homepage": "https://github.com/Yousif-CS/eventsocketjs#readme",
+  "dependencies": {
+    "protoc": "^1.0.4"
+  }
+}
